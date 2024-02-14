@@ -4,9 +4,7 @@ Hey there! I'm Arnaldo Chebl, a passionate data scientist with a love for machin
 
 🎓 I hold a degree in Engineering and I'm currently finishing my postgraduate studies in Data Science.
 
-🌟 Fluent in both Portuguese and English.
-
-🔬 I enjoy working with various technologies and tools including R, Python, PySpark, Hadoop, Git, GitHub, cloud computing, SAS, SQL, Docker, VSCode, and Tableau.
+🌟 Fluent in both Portuguese and English. Basic proficiency in Spanish.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arnaldochebl/) to explore more about my professional journey!
 
