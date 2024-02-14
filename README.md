@@ -6,6 +6,8 @@ Hey there! I'm Arnaldo Chebl, a passionate data scientist with a love for machin
 
 🌟 Fluent in both Portuguese and English. Basic proficiency in Spanish.
 
+📍 São Paulo/SP - Brasil.
+
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arnaldochebl/) to explore more about my professional journey!
 
 ---
