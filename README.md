@@ -2,7 +2,7 @@
 
 Hey there! I'm Arnaldo Chebl, a passionate data scientist with a love for machine learning, gaming, and exploring different neural network architectures.
 
-🎓 I hold a degree in Engineering and I'm currently finishing my postgraduate studies in Data Science.
+🎓 I hold a degree in Engineering and I'm currently finishing my postgraduate studies in Data Science and Decision.
 
 🌟 Fluent in both Portuguese and English. Basic proficiency in Spanish.
 
