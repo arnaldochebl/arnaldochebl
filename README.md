@@ -1,10 +1,10 @@
 ### 👨‍💻 About Me
 
-Hey there! I'm Arnaldo Chebl, a passionate data scientist with a love for machine learning, gaming, and exploring different neural network architectures.
+Hey there! I'm Arnaldo Chebl, a passionate data scientist with a love for machine learning and leveraging data to understand and solve real business problems.
 
-🎓 I hold a degree in Engineering and I'm currently finishing my postgraduate studies in Data Science and Decision.
+🎓 I hold a degree in Production Engineering and postgraduate degree in Data Science.
 
-🌟 Fluent in both Portuguese and English. Basic proficiency in Spanish.
+🌟 Fluent in Portuguese and advanced in English. Intermediate proficiency in Spanish.
 
 📍 São Paulo/SP - Brasil.
 
