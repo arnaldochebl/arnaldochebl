@@ -10,6 +10,8 @@ Hey there! I'm Arnaldo Chebl, a passionate data scientist with a love for machin
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arnaldochebl/) to explore more about my professional journey!
 
+🌐 Check out my [portfolio website](https://arnaldochebl.github.io/siteProjetos/) to explore some of my data science projects and learn more about my work.
+
 ---
 
 ## ⚡ Technologies
